@@ -8,11 +8,11 @@ The project demonstrates the **complete Machine Learning workflow**, including d
 
 ## Features
 
-* **Machine Learning Diagnosis** – Predicts possible mental health disorders based on symptoms.
-* **Multiple ML Models** – Implements Random Forest, Logistic Regression, KNN, and Naive Bayes.
-* **Symptom-Based Prediction** – Uses psychological and behavioral indicators as inputs.
-* **Interactive GUI Interface** – Allows users to enter symptoms and get predictions instantly.
-* **Comparative Model Evaluation** – Identifies the most accurate prediction model.
+* **Machine Learning Diagnosis** : Predicts possible mental health disorders based on symptoms.
+* **Multiple ML Models** : Implements Random Forest, Logistic Regression, KNN, and Naive Bayes.
+* **Symptom-Based Prediction** : Uses psychological and behavioral indicators as inputs.
+* **Interactive GUI Interface** : Allows users to enter symptoms and get predictions instantly.
+* **Comparative Model Evaluation** : Identifies the most accurate prediction model.
 
 ---
 
